@@ -93,7 +93,7 @@ $userid = $_SESSION["userid"];
                                 </div>
                                 <div class="market-status-table mt-4">
                                     <div class="table-responsive">
-										 Sistem ini merupakan formulir pendataan data diri peserta baru SMK 17 Sukoharjo
+										 Sistem ini merupakan formulir pendataan data diri peserta baru
                                          
                                          <br><br>
                                          Panduan Pengisian Formulir:
